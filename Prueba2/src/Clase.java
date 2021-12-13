@@ -5,5 +5,6 @@ public class Clase {
 		
 		System.out.println("Hola git");
 		System.out.println("Hola git");
+		System.out.println("Hola git");
 	}
 }
